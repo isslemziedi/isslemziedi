@@ -117,16 +117,14 @@
     <img src="https://ytcards.demolab.com/?id=FbDo0FazAek&title=Angular+-+Tutoriel+Pratique&lang=fr&timestamp=1234567890&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1234" alt="Angular Tutorial">
   </a>
 </div>
-
+<br>
 <div align="center">
   <a href="./docs/End of studies reasearch papaer.pdf">
     <img src="https://img.shields.io/badge/📄_View_Paper-Open_PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Research Paper"/>
   </a>
-  <a href="./docs/End of studies reasearch papaer.pdf" download>
+  <a href="https://github.com/isslemziedi/isslemziedi/raw/main/docs/End%20of%20studies%20reasearch%20papaer.pdf">
     <img src="https://img.shields.io/badge/⬇️_Download-PDF_File-red?style=for-the-badge&logo=download&logoColor=white" alt="Download PDF"/>
   </a>
-    
-  <br>
   <br>
   <sub><b>Kliniqa</b> - Design and development of a medical tourism application "Klinqia" </sub>
 </div>
