@@ -174,7 +174,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="36" height="36"/>
   </a>
 </p>
-<h3 align="left">🚀 Selected Projects</h3>
+<p><em>Note: Stats reflect public projects only. Private academic and collaborative work not shown here.</em></p>
 <!-- GitHub stats -->
 <p align="left">
   <a href="https://github.com/isslemziedi" target="_blank" rel="noopener noreferrer" aria-label="Islem Ziedi GitHub profile">
