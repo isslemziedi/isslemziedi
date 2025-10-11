@@ -120,8 +120,13 @@
 
 <div align="center">
   <a href="./docs/End of studies reasearch papaer.pdf">
-    <img src="https://img.shields.io/badge/📄_Research_Paper-Download_PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Research Paper"/>
+    <img src="https://img.shields.io/badge/📄_View_Paper-Open_PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Research Paper"/>
   </a>
+  <a href="./docs/End of studies reasearch papaer.pdf" download>
+    <img src="https://img.shields.io/badge/⬇️_Download-PDF_File-red?style=for-the-badge&logo=download&logoColor=white" alt="Download PDF"/>
+  </a>
+    
+  <br>
   <br>
   <sub><b>Kliniqa</b> - Design and development of a medical tourism application "Klinqia" </sub>
 </div>
