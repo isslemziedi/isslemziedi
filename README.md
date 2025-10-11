@@ -108,7 +108,7 @@
 
 ## 📚 Educational Content & Research
 
-<div align="center">
+<div align="left">
   <a href="https://www.youtube.com/watch?v=FbDo0FazAek">
     <img src="https://ytcards.demolab.com/?id=FbDo0FazAek&title=Terraform+-+Guide+Complet&lang=fr&timestamp=1234567890&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1234" alt="Terraform Tutorial">
   </a>
