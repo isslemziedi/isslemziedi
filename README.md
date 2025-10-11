@@ -119,11 +119,11 @@
 </div>
 
 <div align="center">
-  <a href="./docs/research-paper.pdf">
+  <a href="./docs/End of studies reasearch papaer.pdf">
     <img src="https://img.shields.io/badge/📄_Research_Paper-Download_PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Research Paper"/>
   </a>
   <br>
-  <sub><b>Titre de votre recherche</b> - Description courte du domaine et contribution principale</sub>
+  <sub><b>Kliniqa</b> - Design and development of a medical tourism application "Klinqia" </sub>
 </div>
 
 ## 📫 Connect with me
