@@ -110,7 +110,7 @@
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.youtube.com/watch?v=6OU_bijuoC0">
-    <img src="https://ytcards.demolab.com/?id=6OU_bijuoC0&title=Terraform%20-%20Vagrant%20pour%20Déployer%202%20VMs&lang=fr&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Terraform Tutorial 1">
+  <img src="https://ytcards.demolab.com/?id=6OU_bijuoC0&title=Terraform%20-%20Vagrant%20pour%20Déployer%202%20VMs&lang=fr&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&v=2" alt="Terraform Tutorial 1">
   </a>
 
   <a href="https://www.youtube.com/watch?v=FbDo0FazAek">
