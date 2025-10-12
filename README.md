@@ -108,18 +108,18 @@
 
 ## 📚 Educational Content & Research
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.youtube.com/watch?v=6OU_bijuoC0" target="_blank">
-    <img src="https://ytcards.demolab.com/?id=6OU_bijuoC0&lang=fr&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Terraform Tutorial 1">
+    <img src="https://ytcards.demolab.com/?id=6OU_bijuoC0&lang=fr&background_color=%23ffffff&title_color=%23000000&stats_color=%23333333&max_title_lines=1&width=250&border_radius=5" alt="Terraform Tutorial 1">
   </a>
   <a href="https://www.youtube.com/watch?v=FbDo0FazAek" target="_blank">
-    <img src="https://ytcards.demolab.com/?id=FbDo0FazAek&lang=fr&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Terraform Tutorial 2">
+    <img src="https://ytcards.demolab.com/?id=FbDo0FazAek&lang=fr&background_color=%23ffffff&title_color=%23000000&stats_color=%23333333&max_title_lines=1&width=250&border_radius=5" alt="Terraform Tutorial 2">
   </a>
   <a href="https://www.youtube.com/watch?v=78l4WKH_bhc" target="_blank">
-    <img src="https://ytcards.demolab.com/?id=78l4WKH_bhc&lang=fr&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Symfony Tutorial 1">
+    <img src="https://ytcards.demolab.com/?id=78l4WKH_bhc&lang=fr&background_color=%23ffffff&title_color=%23000000&stats_color=%23333333&max_title_lines=1&width=250&border_radius=5" alt="Symfony Tutorial 1">
   </a>
   <a href="https://www.youtube.com/watch?v=Bx6NbH5NuKs" target="_blank">
-    <img src="https://ytcards.demolab.com/?id=Bx6NbH5NuKs&lang=fr&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Symfony Tutorial 2">
+    <img src="https://ytcards.demolab.com/?id=Bx6NbH5NuKs&lang=fr&background_color=%23ffffff&title_color=%23000000&stats_color=%23333333&max_title_lines=1&width=250&border_radius=5" alt="Symfony Tutorial 2">
   </a>
 </div>
 
