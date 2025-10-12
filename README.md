@@ -125,10 +125,10 @@
 <br>
 <h4>Reasearch paper of project Kliniqa - Design and development of a medical tourism application "Klinqia" </h4>
 <div align="left">
-  <a href="./docs/End of studies reasearch papaer.pdf">
+  <a href="./docs/End of studies reasearch paper.pdf">
     <img src="https://img.shields.io/badge/📄_View_Paper-Open_PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Research Paper"/>
   </a>
-  <a href="https://github.com/isslemziedi/isslemziedi/raw/main/docs/End%20of%20studies%20reasearch%20papaer.pdf">
+  <a href="https://github.com/isslemziedi/isslemziedi/raw/main/docs/End%20of%20studies%20reasearch%20paper.pdf">
     <img src="https://img.shields.io/badge/⬇️_Download-PDF_File-red?style=for-the-badge&logo=download&logoColor=white" alt="Download PDF"/>
   </a>
 </div>
