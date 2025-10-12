@@ -107,19 +107,18 @@
 
 
 ## 📚 Educational Content & Research
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start;">
   <a href="https://www.youtube.com/watch?v=6OU_bijuoC0" target="_blank">
-    <img src="https://ytcards.demolab.com/?id=6OU_bijuoC0&lang=fr&background_color=%23ffffff&title_color=%23000000&stats_color=%23333333&max_title_lines=1&width=250&border_radius=5" alt="Terraform Tutorial 1">
+    <img src="https://ytcards.demolab.com/?id=6OU_bijuoC0&title=Terraform%20-%20Vagrant%20pour%20D%C3%A9ployer%202%20VMs&lang=fr&timestamp=1735642043&background_color=%23ffffff&title_color=%23000000&stats_color=%23666666&max_title_lines=2&width=320&border_radius=5&v=4" alt="Terraform Tutorial 1">
   </a>
   <a href="https://www.youtube.com/watch?v=FbDo0FazAek" target="_blank">
-    <img src="https://ytcards.demolab.com/?id=FbDo0FazAek&lang=fr&background_color=%23ffffff&title_color=%23000000&stats_color=%23333333&max_title_lines=1&width=250&border_radius=5" alt="Terraform Tutorial 2">
+    <img src="https://ytcards.demolab.com/?id=FbDo0FazAek&title=Tests%20%26%20Validation%20Infrastructure%20Terraform%20Locale&lang=fr&timestamp=1735642043&background_color=%23ffffff&title_color=%23000000&stats_color=%23666666&max_title_lines=2&width=320&border_radius=5&v=7" alt="Terraform Tutorial 2">
   </a>
   <a href="https://www.youtube.com/watch?v=78l4WKH_bhc" target="_blank">
-    <img src="https://ytcards.demolab.com/?id=78l4WKH_bhc&lang=fr&background_color=%23ffffff&title_color=%23000000&stats_color=%23333333&max_title_lines=1&width=250&border_radius=5" alt="Symfony Tutorial 1">
+    <img src="https://ytcards.demolab.com/?id=78l4WKH_bhc&title=Symfony%20Forms%20%26%20Validation%20Explained%3A%20Step-by-Step%20Implementation%20Guide%20%F0%9F%9B%A0%EF%B8%8F&lang=fr&timestamp=1760226443&background_color=%23ffffff&title_color=%23000000&stats_color=%23666666&max_title_lines=2&width=320&border_radius=5&v=4" alt="Symfony Tutorial 1">
   </a>
   <a href="https://www.youtube.com/watch?v=Bx6NbH5NuKs" target="_blank">
-    <img src="https://ytcards.demolab.com/?id=Bx6NbH5NuKs&lang=fr&background_color=%23ffffff&title_color=%23000000&stats_color=%23333333&max_title_lines=1&width=250&border_radius=5" alt="Symfony Tutorial 2">
+    <img src="https://ytcards.demolab.com/?id=Bx6NbH5NuKs&title=Symfony%20Entity%20Relations%3A%20One-to-Many%20Tutorial%20%28Category%20%26%20Article%29&lang=fr&timestamp=1760226443&background_color=%23ffffff&title_color=%23000000&stats_color=%23666666&max_title_lines=2&width=320&border_radius=5&v=4" alt="Symfony Tutorial 2">
   </a>
 </div>
 
