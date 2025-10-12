@@ -125,7 +125,7 @@
 <br>
 <h4>Reasearch paper of project Kliniqa - Design and development of a medical tourism application "Klinqia" </h4>
 <div align="left">
-  <a href="docs/End%20of%20studies%20research%20paper.pdf" target="_blank">
+  <a href="docs/End of studies research paper.pdf">
     <img src="https://img.shields.io/badge/📄_View_Paper-Open_PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Research Paper"/>
   </a>
   <a href="https://github.com/isslemziedi/isslemziedi/raw/main/docs/End%20of%20studies%20research%20paper.pdf">
