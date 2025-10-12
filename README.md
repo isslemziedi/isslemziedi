@@ -115,15 +115,13 @@
 
   <a href="https://www.youtube.com/watch?v=FbDo0FazAek">
     <img src="https://ytcards.demolab.com/?id=FbDo0FazAek&title=Tests%20%26%20Validation%20Infra%20Terraform&lang=fr&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Terraform Tutorial 2">
-  </a>
-
 
   <a href="https://www.youtube.com/watch?v=78l4WKH_bhc">
-    <img src="https://ytcards.demolab.com/?id=78l4WKH_bhc&title=Symfony%20Forms%20%26%20Validation%20Explained%3A%20Step-by-Step%20Implementation%20Guide%20%F0%9F%9B%A0%EF%B8%8F&lang=fr&timestamp=1234567890&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1234" alt="Symfony Tutorial 1">
+    <img src="https://ytcards.demolab.com/?id=78l4WKH_bhc&title=Symfony%20Forms%20%26%20Validation%20Explained%3A%20Step-by-Step%20Implementation%20Guide%20%F0%9F%9B%A0%EF%B8%8F&lang=fr&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1234" alt="Symfony Tutorial 1">
   </a>
 
   <a href="https://www.youtube.com/watch?v=Bx6NbH5NuKs">
-    <img src="https://ytcards.demolab.com/?id=Bx6NbH5NuKs&title=Symfony%20Entity%20Relations%3A%20One-to-Many%20Tutorial%20%28Category%20%26%20Article%29&lang=fr&timestamp=1234567890&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1234" alt="Symfony Tutorial 2">
+    <img src="https://ytcards.demolab.com/?id=Bx6NbH5NuKs&title=Symfony%20Entity%20Relations%3A%20One-to-Many%20Tutorial%20%28Category%20%26%20Article%29&lang=fr&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1234" alt="Symfony Tutorial 2">
   </a>
 </div>
 
