@@ -143,10 +143,9 @@
   </li>
   <li>
     🌐
-    <a href="https://your-portfolio.example" target="_blank" rel="noopener noreferrer" title="Portfolio website (coming soon)" aria-label="Portfolio website">
+    <a href="islemziadi.tn" target="_blank" rel="noopener noreferrer" title="Portfolio website (coming soon)" aria-label="Portfolio website">
       Portfolio Website
     </a>
-    <small>(coming soon)</small>
   </li>
   <li>
     ✉️
