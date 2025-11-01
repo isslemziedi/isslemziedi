@@ -143,7 +143,7 @@
   </li>
   <li>
     🌐
-    <a href="islemziadi.tn" target="_blank" rel="noopener noreferrer" title="Portfolio website (coming soon)" aria-label="Portfolio website">
+    <a href="http://www.islemziadi.tn/" target="_blank" rel="noopener noreferrer" title="Portfolio website (coming soon)" aria-label="Portfolio website">
       Portfolio Website
     </a>
   </li>
